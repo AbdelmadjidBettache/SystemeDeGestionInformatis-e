@@ -1,0 +1,77 @@
+C:\Users\tbellal\source\repos\SGI\SGI\bin\Debug\SGI.exe.config
+C:\Users\tbellal\source\repos\SGI\SGI\bin\Debug\SGI.exe
+C:\Users\tbellal\source\repos\SGI\SGI\bin\Debug\SGI.pdb
+C:\Users\tbellal\source\repos\SGI\SGI\obj\Debug\SGI.csproj.AssemblyReference.cache
+C:\Users\tbellal\source\repos\SGI\SGI\obj\Debug\SGI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tbellal\source\repos\SGI\SGI\obj\Debug\MainWindow.g.cs
+C:\Users\tbellal\source\repos\SGI\SGI\obj\Debug\SGIArt.g.cs
+C:\Users\tbellal\source\repos\SGI\SGI\obj\Debug\App.g.cs
+C:\Users\tbellal\source\repos\SGI\SGI\obj\Debug\SGI_MarkupCompile.cache
+C:\Users\tbellal\source\repos\SGI\SGI\obj\Debug\SGI_MarkupCompile.lref
+C:\Users\tbellal\source\repos\SGI\SGI\obj\Debug\MainWindow.baml
+C:\Users\tbellal\source\repos\SGI\SGI\obj\Debug\SGIArt.baml
+C:\Users\tbellal\source\repos\SGI\SGI\obj\Debug\SGI.g.resources
+C:\Users\tbellal\source\repos\SGI\SGI\obj\Debug\SGI.Properties.Resources.resources
+C:\Users\tbellal\source\repos\SGI\SGI\obj\Debug\SGI.csproj.GenerateResource.cache
+C:\Users\tbellal\source\repos\SGI\SGI\obj\Debug\SGI.csproj.CoreCompileInputs.cache
+C:\Users\tbellal\source\repos\SGI\SGI\obj\Debug\SGI.exe
+C:\Users\tbellal\source\repos\SGI\SGI\obj\Debug\SGI.pdb
+C:\Users\tbellal\source\repos\SGI\SGI\obj\Debug\Vendre.g.cs
+C:\Users\tbellal\source\repos\SGI\SGI\obj\Debug\Vendre.baml
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\bin\Debug\SGI.exe.config
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\bin\Debug\SGI.exe
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\bin\Debug\SGI.pdb
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGI.csproj.AssemblyReference.cache
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\MainWindow.g.cs
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGIArt.g.cs
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\Vendre.g.cs
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\App.g.cs
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGI_MarkupCompile.cache
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGI_MarkupCompile.lref
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\MainWindow.baml
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGIArt.baml
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\Vendre.baml
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGI.g.resources
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGI.Properties.Resources.resources
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGI.csproj.GenerateResource.cache
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGI.csproj.CoreCompileInputs.cache
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGI.exe
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGI.pdb
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\bin\Debug\SGI.exe.config
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\bin\Debug\SGI.exe
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\bin\Debug\SGI.pdb
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGI.csproj.AssemblyReference.cache
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\MainWindow.g.cs
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGIArt.g.cs
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\Vendre.g.cs
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\App.g.cs
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGI_MarkupCompile.cache
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGI_MarkupCompile.lref
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\MainWindow.baml
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGIArt.baml
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\Vendre.baml
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGI.g.resources
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGI.Properties.Resources.resources
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGI.csproj.GenerateResource.cache
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGI.csproj.CoreCompileInputs.cache
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGI.exe
+C:\Users\Bmadj\OneDrive\Documents\AEC PROGRAMMATION ORIENTÉE OBJET ET TECHNOLOGIES WEB\Session 4\TECHNIQUES DE DÉVELOPPEMENT DANS UN ENVIRONNEMENT GRAPHIQUE\Correction de prof\SGI\SGI\obj\Debug\SGI.pdb
+C:\Users\Bmadj\source\repos\SGI\SGI\bin\Debug\SGI.exe.config
+C:\Users\Bmadj\source\repos\SGI\SGI\bin\Debug\SGI.exe
+C:\Users\Bmadj\source\repos\SGI\SGI\bin\Debug\SGI.pdb
+C:\Users\Bmadj\source\repos\SGI\SGI\obj\Debug\SGI.csproj.AssemblyReference.cache
+C:\Users\Bmadj\source\repos\SGI\SGI\obj\Debug\MainWindow.g.cs
+C:\Users\Bmadj\source\repos\SGI\SGI\obj\Debug\SGIArt.g.cs
+C:\Users\Bmadj\source\repos\SGI\SGI\obj\Debug\Vendre.g.cs
+C:\Users\Bmadj\source\repos\SGI\SGI\obj\Debug\App.g.cs
+C:\Users\Bmadj\source\repos\SGI\SGI\obj\Debug\SGI_MarkupCompile.cache
+C:\Users\Bmadj\source\repos\SGI\SGI\obj\Debug\SGI_MarkupCompile.lref
+C:\Users\Bmadj\source\repos\SGI\SGI\obj\Debug\MainWindow.baml
+C:\Users\Bmadj\source\repos\SGI\SGI\obj\Debug\SGIArt.baml
+C:\Users\Bmadj\source\repos\SGI\SGI\obj\Debug\Vendre.baml
+C:\Users\Bmadj\source\repos\SGI\SGI\obj\Debug\SGI.g.resources
+C:\Users\Bmadj\source\repos\SGI\SGI\obj\Debug\SGI.Properties.Resources.resources
+C:\Users\Bmadj\source\repos\SGI\SGI\obj\Debug\SGI.csproj.GenerateResource.cache
+C:\Users\Bmadj\source\repos\SGI\SGI\obj\Debug\SGI.csproj.CoreCompileInputs.cache
+C:\Users\Bmadj\source\repos\SGI\SGI\obj\Debug\SGI.exe
+C:\Users\Bmadj\source\repos\SGI\SGI\obj\Debug\SGI.pdb
